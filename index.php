@@ -853,12 +853,12 @@ include "process.php";
 
             <!-- form -->
             <form id="contactForm" method="POST" action="" style="margin-top: 0;">
-            <div id="message-success">            
-      		</div>
+           <!--<div id="message-success">            
+      		</div>-->
       			<fieldset>
-      				<div id="message-warning">
+      				<!--<div id="message-warning">
       					
-      				</div>
+      				</div>-->
 
                   <div class="form-field">
  						   <input name="contactName" type="text" id="contactName" placeholder="Name"><span><?php echo $error['contactName'];     ?></span>
