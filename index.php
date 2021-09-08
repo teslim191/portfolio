@@ -843,7 +843,7 @@ include "process.php";
    		</div> 
    	</div> <!-- /section-intro -->
 
-   	<div class="row contact-form">
+   	<div class="row contact-form" style="margin-top: 0;">
 
    		<div class="col-twelve">
             <div >           	
