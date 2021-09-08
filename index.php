@@ -843,7 +843,7 @@ include "process.php";
    		</div> 
    	</div> <!-- /section-intro -->
 
-   	<div class="row contact-form" style="margin-top: 0;">
+   	<div class="row contact-form">
 
    		<div class="col-twelve">
             <div >           	
@@ -852,7 +852,7 @@ include "process.php";
       		 
 
             <!-- form -->
-            <form id="contactForm" method="POST" action="">
+            <form id="contactForm" method="POST" action="" style="margin-top: 0;">
             <div id="message-success">            
       		</div>
       			<fieldset>
