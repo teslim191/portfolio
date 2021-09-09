@@ -62,6 +62,7 @@ if (isset($_SESSION["email"])) {
   Login
 </button>
 <!-- Modal -->
+	<div class="container">
 <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
@@ -83,7 +84,7 @@ if (isset($_SESSION["email"])) {
     </div>
   </div>
 </div>
-
+	</div>
 
 
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
