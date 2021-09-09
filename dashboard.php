@@ -1,6 +1,6 @@
 <?php
 session_start();
-include "database.php";
+include "db.php";
 $email = $_SESSION['email']; 
 
 if (!isset($_SESSION["email"])) {
