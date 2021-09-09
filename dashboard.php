@@ -45,7 +45,7 @@ if (!isset($_SESSION["email"])) {
   <strong>Welcome, Admin</strong>
   <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close">&times;</button>
 </div>
-<div class="container my-3">
+<div class="container-fluid my-3">
 	<table class=" table table-bordered border-striped">
 		<thead>
 			<th>Name</th>
