@@ -46,6 +46,7 @@ if (!isset($_SESSION["email"])) {
   <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close">&times;</button>
 </div>
 <div class="container my-3">
+	<div class="table-responsive">
 	<table class=" table table-bordered border-striped table-responsive-sm">
 		<thead>
 			<th>Name</th>
@@ -86,7 +87,7 @@ if (!isset($_SESSION["email"])) {
 
 ?>
 	</table>
-	
+	</div>
 </div>
 
 
