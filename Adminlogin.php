@@ -1,7 +1,7 @@
 <?php
 session_start();
 ob_start();
-include("database.php");
+include("db.php");
 
 if (isset($_SESSION["email"])) {
 	header("Location: dashboard.php");
