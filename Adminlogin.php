@@ -58,9 +58,9 @@ if (isset($_SESSION["email"])) {
 </head>
 <body>
 <!-- Button trigger modal -->
-	<button type="button" class="btn btn-primary m-3" data-bs-toggle="modal" data-bs-target="#exampleModal">
+	<!--<button type="button" class="btn btn-primary m-3" data-bs-toggle="modal" data-bs-target="#exampleModal">
   Login
-</button>
+</button>-->
 <!-- Modal -->
 <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog">
