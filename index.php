@@ -58,7 +58,7 @@ include "process.php";
 						<li><a class="smoothscroll"  href="#portfolio" title="">Portfolio</a></li>
 						<li><a class="smoothscroll"  href="#services" title="">Services</a></li>					
 						<li><a class="smoothscroll"  href="#contact" title="">Contact</a></li>
-						<li><a class="smoothscroll" data-bs-toggle="modal" data-bs-target="#exampleModal">Login</a></li>
+						<li><a type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">Login</a></li>
 					</ul>
 				</nav>    		
    		</div> <!-- /top-bar --> 
