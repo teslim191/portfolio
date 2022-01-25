@@ -412,7 +412,7 @@ include "process.php";
 	         	<div class="bgrid folio-item">
 	               <div class="item-wrap">
 	               	<img src="images/portfolio/portfolio1.PNG" alt="">
-	                  <a href="http://organicskin.herokuapp.com" class="overlay">	                  	           
+	                  <a href="#modal-01" class="overlay">	                  	           
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
 		     					       <h3 class="folio-title"></h3>	     					    
@@ -510,7 +510,7 @@ include "process.php";
 	            <div id="modal-01" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
-				     		<img src="images/portfolio/modals/m-project1.jpg" alt="" />
+				     		<img src="images/portfolio/modals/portfolio1.png" alt="" />
 				     	</div>      	
 
 					   <div class="description-box">
