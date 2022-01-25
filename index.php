@@ -411,8 +411,8 @@ include "process.php";
 
 	         	<div class="bgrid folio-item">
 	               <div class="item-wrap">
-	               	<img src="images/portfolio/project1.jpg" alt="">
-	                  <a href="#modal-01" class="overlay">	                  	           
+	               	<img src="images/portfolio/portfolio.png" alt="">
+	                  <a href="http://organicskin.herokuapp.com" class="overlay">	                  	           
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
 		     					       <h3 class="folio-title"></h3>	     					    
