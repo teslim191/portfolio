@@ -174,31 +174,31 @@ include "process.php";
 				   	<strong>CSS3</strong>
 				   </li>
 				   <li>
-				   	<div class="progress percent95"><span>95%</span></div>
+<!-- 				   	<div class="progress percent95"><span>95%</span></div> -->
 				   	<strong>JavaScript</strong>
 				   </li>
 				   <li>
-				   	<div class="progress percent95"><span>95%</span></div>
+<!-- 				   	<div class="progress percent95"><span>95%</span></div> -->
 				   	<strong>Bootstrap</strong>
 				   </li>
 				   <li>
-				   	<div class="progress percent80"><span>80%</span></div>
+<!-- 				   	<div class="progress percent80"><span>80%</span></div> -->
 				   	<strong>JQuery</strong>
 				   </li>
 				   <li>
-				   	<div class="progress percent95"><span>95%</span></div>
+<!-- 				   	<div class="progress percent95"><span>95%</span></div> -->
 				   	<strong>Python</strong>
 				   </li>
 				   <li>
-				   	<div class="progress percent85"><span>85%</span></div>
+<!-- 				   	<div class="progress percent85"><span>85%</span></div> -->
 				   	<strong>PHP</strong>
 				   </li>
 				   <li>
-				   	<div class="progress percent90"><span>90%</span></div>
+<!-- 				   	<div class="progress percent90"><span>90%</span></div> -->
 				   	<strong>Django</strong>
 				   </li>
                <li>
-				   	<div class="progress percent85"><span>85%</span></div>
+<!-- 				   	<div class="progress percent85"><span>85%</span></div> -->
 				   	<strong>MySQL</strong>
 				   </li>
 				</ul> <!-- /skill-bars -->		
