@@ -166,11 +166,11 @@ include "process.php";
 
 				<ul class="skill-bars">
 				   <li>
-				   	<div class="progress percent95"><span>95%</span></div>
+<!-- 				   	<div class="progress percent95"><span>95%</span></div> -->
 				   	<strong>HTML5</strong>
 				   </li>
 				   <li>
-				   	<div class="progress percent90"><span>90%</span></div>
+<!-- 				   	<div class="progress percent90"><span>90%</span></div> -->
 				   	<strong>CSS3</strong>
 				   </li>
 				   <li>
