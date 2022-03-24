@@ -189,6 +189,12 @@ include "process.php";
 <!-- 				   	<div class="progress percent95"><span>95%</span></div> -->
 				   	<strong>Python</strong>
 				   </li>
+<!-- 				   	<div class="progress percent95"><span>95%</span></div> -->
+				   	<strong>NodeJS</strong>
+				   </li>
+<!-- 				   	<div class="progress percent95"><span>95%</span></div> -->
+				   	<strong>ExpressJS</strong>
+				   </li>
 				   <li>
 <!-- 				   	<div class="progress percent85"><span>85%</span></div> -->
 				   	<strong>PHP</strong>
