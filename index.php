@@ -164,7 +164,7 @@ include "process.php";
    			<h3>Skills</h3>
    			<p>My skills highlight:</p>
 
-				<ul class="skill-bars">
+				<ul class="">
 				   <li>
 <!-- 				   	<div class="progress percent95"><span>95%</span></div> -->
 				   	<strong>HTML5</strong>
