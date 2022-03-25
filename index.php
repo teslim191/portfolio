@@ -1,6 +1,7 @@
 <?php
 include "process.php";
 
+
 ?>
 <!DOCTYPE html>
 <!--[if IE 8 ]><html class="no-js oldie ie8" lang="en"> <![endif]-->
@@ -981,9 +982,9 @@ include "process.php";
       	</div> <!-- /row -->     	
    </footer>  
 
-   <div id="preloader"> 
+   <!--<div id="preloader"> 
     	<div id="loader"></div>
-   </div> 
+   </div>--> 
 
    <!-- Java Script
    ================================================== --> 
