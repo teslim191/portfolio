@@ -519,7 +519,7 @@ include "process.php";
 	            <div id="modal-01" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
-				     		<img src="images/portfolio/modals/portfolio1.png" alt="" />
+				     		<img src="images/portfolio/modals/portfolio1.PNG" alt="" />
 				     	</div>      	
 
 					   <div class="description-box">
