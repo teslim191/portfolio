@@ -22,14 +22,13 @@ include "process.php";
 
  	<!-- CSS
    ================================================== -->
+   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet">
    <link rel="stylesheet" href="css/base.css">  
    <link rel="stylesheet" href="css/main.css">
    <link rel="stylesheet" href="css/vendor.css">
 
    <!-- script
    ================================================== -->   
-	<script src="js/modernizr.js"></script>
-	<script src="js/pace.min.js"></script>
 
 
    <!-- favicons
@@ -59,7 +58,8 @@ include "process.php";
 						<li><a class="smoothscroll"  href="#resume" title="">Resume</a></li>
 						<li><a class="smoothscroll"  href="#portfolio" title="">Portfolio</a></li>
 						<li><a class="smoothscroll"  href="#services" title="">Services</a></li>					
-						<li><a class="smoothscroll"  href="#contact" title="">Contact</a></li>					
+						<li><a class="smoothscroll"  href="#contact" title="">Contact</a></li>
+						
 					</ul>
 				</nav>    		
    		</div> <!-- /top-bar --> 
@@ -165,41 +165,49 @@ include "process.php";
    			<h3>Skills</h3>
    			<p>My skills highlight:</p>
 
-				<ul class="skill-bars">
+				<ul class="">
 				   <li>
-				   	<div class="progress percent95"><span>95%</span></div>
+<!-- 				   	<div class="progress percent95"><span>95%</span></div> -->
 				   	<strong>HTML5</strong>
 				   </li>
 				   <li>
-				   	<div class="progress percent90"><span>90%</span></div>
+<!-- 				   	<div class="progress percent90"><span>90%</span></div> -->
 				   	<strong>CSS3</strong>
 				   </li>
 				   <li>
-				   	<div class="progress percent95"><span>95%</span></div>
+<!-- 				   	<div class="progress percent95"><span>95%</span></div> -->
 				   	<strong>JavaScript</strong>
 				   </li>
 				   <li>
-				   	<div class="progress percent95"><span>95%</span></div>
+<!-- 				   	<div class="progress percent95"><span>95%</span></div> -->
 				   	<strong>Bootstrap</strong>
 				   </li>
 				   <li>
-				   	<div class="progress percent80"><span>80%</span></div>
+<!-- 				   	<div class="progress percent80"><span>80%</span></div> -->
 				   	<strong>JQuery</strong>
 				   </li>
 				   <li>
-				   	<div class="progress percent95"><span>95%</span></div>
+<!-- 				   	<div class="progress percent95"><span>95%</span></div> -->
 				   	<strong>Python</strong>
 				   </li>
 				   <li>
-				   	<div class="progress percent85"><span>85%</span></div>
+<!-- 				   	<div class="progress percent95"><span>95%</span></div> -->
+				   	<strong>NodeJS</strong>
+				   </li>
+				   <li>
+<!-- 				   	<div class="progress percent95"><span>95%</span></div> -->
+				   	<strong>ExpressJS</strong>
+				   </li>
+				   <li>
+<!-- 				   	<div class="progress percent85"><span>85%</span></div> -->
 				   	<strong>PHP</strong>
 				   </li>
 				   <li>
-				   	<div class="progress percent90"><span>90%</span></div>
+<!-- 				   	<div class="progress percent90"><span>90%</span></div> -->
 				   	<strong>Django</strong>
 				   </li>
                <li>
-				   	<div class="progress percent85"><span>85%</span></div>
+<!-- 				   	<div class="progress percent85"><span>85%</span></div> -->
 				   	<strong>MySQL</strong>
 				   </li>
 				</ul> <!-- /skill-bars -->		
@@ -412,7 +420,7 @@ include "process.php";
 
 	         	<div class="bgrid folio-item">
 	               <div class="item-wrap">
-	               	<img src="images/portfolio/project1.jpg" alt="">
+	               	<img src="images/portfolio/portfolio1.PNG" alt="">
 	                  <a href="#modal-01" class="overlay">	                  	           
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
@@ -511,7 +519,7 @@ include "process.php";
 	            <div id="modal-01" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
-				     		<img src="images/portfolio/modals/m-project1.jpg" alt="" />
+				     		<img src="images/portfolio/modals/portfolio1.png" alt="" />
 				     	</div>      	
 
 					   <div class="description-box">
@@ -855,13 +863,13 @@ include "process.php";
       		 
 
             <!-- form -->
-            <form id="contactForm" method="POST" action="">
-            <div id="message-success">            
-      		</div>
+            <form id="contactForm" method="POST" action="" style="margin-top: 0;">
+           <!--<div id="message-success">            
+      		</div>-->
       			<fieldset>
-      				<div id="message-warning">
+      				<!--<div id="message-warning">
       					
-      				</div>
+      				</div>-->
 
                   <div class="form-field">
  						   <input name="contactName" type="text" id="contactName" placeholder="Name"><span><?php echo $error['contactName'];     ?></span>
@@ -984,12 +992,19 @@ include "process.php";
 
    <!--<div id="preloader"> 
     	<div id="loader"></div>
+<<<<<<< HEAD
    </div>--> 
+=======
+   </div>-->
+>>>>>>> 3a7bebf47cc1b523eca318992fc24c8554b64d4d
 
    <!-- Java Script
    ================================================== --> 
    <script src="js/jquery-2.1.3.min.js"></script>
    <script src="js/plugins.js"></script>
+   <script src="js/modernizr.js"></script>
+  <script src="js/pace.min.js"></script>
+
    <script src="js/main.js"></script>
 <!--    <script type="text/javascript">
    	$(document).ready(function(){

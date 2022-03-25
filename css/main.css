@@ -392,8 +392,13 @@ img.pull-left {
 	border-right: 11px solid rgba(255, 255, 255, 0.1);
 	border-bottom: 11px solid rgba(255, 255, 255, 0.1);
 	border-left: 11px solid #FF0077;
+<<<<<<< HEAD
 	-webkit-animation: load 0.3s infinite linear;
 	animation: load 0.3s infinite linear;
+=======
+	-webkit-animation: load 0.3s linear;
+	animation: load 0.3s linear;
+>>>>>>> 3a7bebf47cc1b523eca318992fc24c8554b64d4d
 	display: block;
 	border-radius: 50%;
 	width: 60px;
