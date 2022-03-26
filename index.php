@@ -419,7 +419,7 @@ include "process.php";
 	         	<div class="bgrid folio-item">
 	               <div class="item-wrap">
 	               	<img src="images/portfolio/portfolio1.PNG" alt="">
-	                  <a href="organicskin.herokuapp.com" class="overlay">	                  	           
+	                  <a href="#modal-01" class="overlay">	                  	           
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
 		     					       <h3 class="folio-title"></h3>	     					    
@@ -868,6 +868,7 @@ include "process.php";
       				<!--<div id="message-warning">
       					
       				</div>-->
+					  <?php echo @$alert;           ?>
 
                   <div class="form-field">
  						   <input name="contactName" type="text" id="contactName" placeholder="Name"><span><?php echo $error['contactName'];     ?></span>

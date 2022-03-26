@@ -29,13 +29,13 @@ if (isset($_POST["submit"])) {
 	}
 
 	if (array_filter($error)) {
-		  echo "<h3 style='color: red;'>All fields are required!!</h3>";
+		  $alert = "<h3 style='color: red;'>All fields are required!!</h3>";
 	}else{
 		$sql = "INSERT INTO users(Name, Email, Subject, Message) VALUES ('$name','$email','$subject','$message')";
 		if (mysqli_query($con, $sql)) {
-			echo "<h3 style='color: deeppink;'>Message sent successfully</h3>";
+			$alert= "<h3 style='color: deeppink;'>Message sent successfully</h3>";
 		} else {
-			echo "<h3 style='color: red;'>Error sending Message</h3>";
+			$alert= "<h3 style='color: red;'>Error sending Message</h3>";
 		}
 		
 	}
