@@ -1,5 +1,4 @@
 <?php
-<<<<<<< HEAD
 // $host = "localhost";
 // $user = "root";
 // $password = "";
@@ -27,8 +26,6 @@
 
 
 
-=======
->>>>>>> 3a7bebf47cc1b523eca318992fc24c8554b64d4d
 $host = "s465z7sj4pwhp7fn.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
 $user = "gd17z93rjeg3iffv";
 $password = "v7ktnnaxzfql0qj2";
