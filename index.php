@@ -517,7 +517,7 @@ include "process.php";
 	            <div id="modal-01" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
-				     		<img src="images/portfolio/modals/m-project1.jpg" alt="" />
+				     		<img src="images/portfolio/modals/portfolio1.PNG" alt="" />
 				     	</div>      	
 
 					   <div class="description-box">
@@ -528,7 +528,7 @@ include "process.php";
 					   </div>
 
 			         <div class="link-box">
-			            <a href="" target="_blank" rel="noopener">Details</a>
+			            <a href="organicskin.herokuapp.com" target="_blank" rel="noopener">Details</a>
 					      <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
 
