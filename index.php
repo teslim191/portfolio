@@ -419,7 +419,7 @@ include "process.php";
 	         	<div class="bgrid folio-item">
 	               <div class="item-wrap">
 	               	<img src="images/portfolio/portfolio1.PNG" alt="">
-	                  <a href="#modal-01" class="overlay">	                  	           
+	                  <a href="" class="overlay">	                  	           
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
 		     					       <h3 class="folio-title"></h3>	     					    
@@ -528,7 +528,7 @@ include "process.php";
 					   </div>
 
 			         <div class="link-box">
-			            <a href="organicskin.herokuapp.com" target="_blank" rel="noopener">Details</a>
+			            <a href="" target="_blank" rel="noopener">Details</a>
 					      <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
 
