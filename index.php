@@ -1,7 +1,5 @@
 <?php
 include "process.php";
-
-
 ?>
 <!DOCTYPE html>
 <!--[if IE 8 ]><html class="no-js oldie ie8" lang="en"> <![endif]-->
@@ -655,7 +653,7 @@ include "process.php";
 
 		<div class=""></div>
 
-		<div class="row section-intro" style="">
+		<div class="row section-intro">
    		<div class="col-twelve">
 
    			<center>
@@ -992,11 +990,7 @@ include "process.php";
 
    <!--<div id="preloader"> 
     	<div id="loader"></div>
-<<<<<<< HEAD
    </div>--> 
-=======
-   </div>-->
->>>>>>> 3a7bebf47cc1b523eca318992fc24c8554b64d4d
 
    <!-- Java Script
    ================================================== --> 
