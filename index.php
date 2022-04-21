@@ -13,7 +13,7 @@ include "process.php";
 	<!--- basic page needs
    ================================================== -->
 	<meta charset="utf-8">
-	<title>skyNet</title>
+	<title>Teslim Jimoh</title>
 	<meta name="description" content="">
 	<meta name="author" content="">
 
@@ -83,7 +83,7 @@ include "process.php";
 					<h1>I'm Jimoh Teslim Oyewale.</h1>
 
 					<p class="intro-position">
-						<span>Full-Stack Web Developer</span>
+						<span>Back-End Engineer</span>
 					</p>
 
 					<a class="button stroke smoothscroll" href="#about" title="">More About Me</a>
@@ -121,7 +121,7 @@ include "process.php";
 					<img src="images/profile.jpg" alt="Profile Picture">
 
 					<p class="lead" style="text-align: justify; font-family: verdana, sans-serif;">
-						Hi,I am a full-stack web developer Who is proficient in the use of web technologies like HTML, CSS, JavaScript, Bootstrap, and JQuery for client-side developement, and server-side languages like PHP and python (Django) in web application developement. I have about three years experience in delivering fast, responsive and scalable websites for clients. I am passionate about transforming ideas into reality and is always motivated to take up new challenges that will enable me learn and improve on my skillset.
+					    Innovative Software Engineer with 2 years of experience in Web Application Development. Demonstrated talent for front and back-end web development. Detail-oriented, with a passion for writing clean and reusable codes in problem-solving. I am passionate about transforming ideas into reality and is always motivated to take up new challenges that will enable me learn and improve on my skillset.
 					</p>
 				</div>
 
@@ -133,7 +133,7 @@ include "process.php";
 			<div class="col-six tab-full">
 
 				<h3>Profile</h3>
-				<p>A full-stack web developer who is passionate about transforming ideas into reality. I am looking forward to help you achieve your goal.</p>
+				<p>A Back-End Engineer who is passionate about transforming ideas into reality.</p>
 
 				<ul class="info-list">
 					<li>
@@ -146,7 +146,7 @@ include "process.php";
 					</li>
 					<li>
 						<strong>Job:</strong>
-						<span>Freelancer, Full-Stack Developer</span>
+						<span>Back-End Engineer</span>
 					</li>
 					<li>
 						<strong>Website:</strong>
@@ -154,7 +154,7 @@ include "process.php";
 					</li>
 					<li>
 						<strong>Email:</strong>
-						<span>teslim.jimoh@outlook.com</span>
+						<span>teslimjimoh191@gmail.com</span>
 					</li>
 
 				</ul> <!-- /info-list -->
@@ -168,48 +168,37 @@ include "process.php";
 
 				<ul class="">
 					<li>
-						<!-- 				   	<div class="progress percent95"><span>95%</span></div> -->
 						<strong>HTML5</strong>
 					</li>
 					<li>
-						<!-- 				   	<div class="progress percent90"><span>90%</span></div> -->
 						<strong>CSS3</strong>
 					</li>
 					<li>
-						<!-- 				   	<div class="progress percent95"><span>95%</span></div> -->
 						<strong>JavaScript</strong>
 					</li>
 					<li>
-						<!-- 				   	<div class="progress percent95"><span>95%</span></div> -->
 						<strong>Bootstrap</strong>
 					</li>
 					<li>
-						<!-- 				   	<div class="progress percent80"><span>80%</span></div> -->
 						<strong>JQuery</strong>
 					</li>
 					<li>
-						<!-- 				   	<div class="progress percent95"><span>95%</span></div> -->
-						<strong>Python</strong>
+						<strong>NodeJS/ExpressJS</strong>
 					</li>
 					<li>
-						<!-- 				   	<div class="progress percent95"><span>95%</span></div> -->
-						<strong>NodeJS</strong>
-					</li>
-					<li>
-						<!-- 				   	<div class="progress percent95"><span>95%</span></div> -->
-						<strong>ExpressJS</strong>
-					</li>
-					<li>
-						<!-- 				   	<div class="progress percent85"><span>85%</span></div> -->
 						<strong>PHP</strong>
 					</li>
 					<li>
-						<!-- 				   	<div class="progress percent90"><span>90%</span></div> -->
-						<strong>Django</strong>
+						<strong>MongoDB</strong>
 					</li>
 					<li>
-						<!-- 				   	<div class="progress percent85"><span>85%</span></div> -->
+						<strong>Python/Django</strong>
+					</li>
+					<li>
 						<strong>MySQL</strong>
+					</li>
+					<li>
+						<strong>Git/Github</strong>
 					</li>
 				</ul> <!-- /skill-bars -->
 
@@ -260,18 +249,18 @@ include "process.php";
 						</div>
 
 						<div class="timeline-header">
-							<h3>Web Admin and IT Instructor</h3>
+							<h3>I.T. Instructor</h3>
 							<p>Dec 2020 - Present</p>
 						</div>
 
 						<div class="timeline-content">
 							<h4>Femtech Information Technology Institute</h4>
 							<ul>
-								<li>Introduced beginners to the rudiments of web application development. I teach them how to build web applications using technologies like HTML, CSS, JavaScript, Bootstrap, JQuery, PHP and MySQL.</li>
-								<li>I teach kids (age 7-15) and adults Python Programming.</li>
-								<li>I use my knowledge of python to teach students web application using Django Framework.</li>
-								<li>I collaborate with other developers to build nice and super efficient websites.</li>
-								<li>I add, update, and delete products in the database using Open cart.</li>
+								<li>Design, implement and maintain various backend technologies for the institute.</li>
+								<li>Fix bugs and write clean reusable codes to improve the efficiency of existing applications.</li>
+								<li>Supervise student's projects from development to production using technologies like JavaScript, PHP and NodeJS.</li>
+								<li>Collaborate with other developers in building responsive and scalable web applications using technologies like PHP, Django and NodeJS.</li>
+								<li>Create clear, engaging lessons to draw interest and develop students in Web Application Development.</li>
 							</ul>
 						</div>
 
