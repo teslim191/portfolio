@@ -273,37 +273,20 @@ include "process.php";
 						</div>
 
 						<div class="timeline-header">
-							<h3>Full-Stack Developer</h3>
-							<p>Dec 2018 - Dec 2020</p>
+							<h3>Freelancer</h3>
+							<p>Feb 2020 - Present</p>
 						</div>
 
 						<div class="timeline-content">
 							<h4>Freelance</h4>
 							<ul>
 								<li>I help clients transform their ideas into reality.</li>
-								<li>Designed websites based on clients specifications.</li>
+								<li>Design websites based on clients specifications.</li>
 							</ul>
 						</div>
 
 					</div> <!-- /timeline-block -->
 
-					<!-- 	   			<div class="timeline-block">
-
-	   				<div class="timeline-ico">
-	   					<i class="fa fa-graduation-cap"></i>
-	   				</div>
-
-	   				<div class="timeline-header">
-	   					<h3>Web Designer</h3>
-	   					<p>May 2013 - June 2014</p>
-	   				</div>
-
-	   				<div class="timeline-content">
-	   					<h4>Great Designs Studio</h4>
-	   					<p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
-	   				</div>
-
-	   			</div>  -->
 					<!-- /timeline-block -->
 
 				</div> <!-- /timeline-wrap -->
@@ -370,12 +353,6 @@ include "process.php";
 	   					<h3>Bachelor Degree</h3>
 	   					<p>May 2013 - June 2014</p>
 	   				</div>
-
-	   				<div class="timeline-content">
-	   					<h4>Design College</h4>
-	   					<p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
-	   				</div>
-
 	   			</div> -->
 					<!-- /timeline-block -->
 
