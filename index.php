@@ -80,7 +80,7 @@ include "process.php";
 				<div class="col-twelve">
 
 					<h5 style="color: deeppink;">Hello, Earthlings.</h5>
-					<h1>I'm Jimoh Teslim Oyewale.</h1>
+					<h1>I'm Jimoh Teslim Oyewale</h1>
 
 					<p class="intro-position">
 						<span>Back-End Engineer</span>
