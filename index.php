@@ -405,7 +405,7 @@ include "process.php";
 
 					<div class="bgrid folio-item">
 						<div class="item-wrap">
-							<img src="images/portfolio/project2.jpg" alt="">
+							<img src="images/portfolio/portfolio2.PNG" alt="">
 							<a href="#modal-02" class="overlay">
 								<div class="folio-item-table">
 									<div class="folio-item-cell">
@@ -508,7 +508,7 @@ include "process.php";
 					<div id="modal-02" class="popup-modal slider mfp-hide">
 
 						<div class="media">
-							<img src="images/portfolio/modals/m-project2.jpg" alt="" />
+							<img src="images/portfolio/modals/portfolio2.PNG" alt="" />
 						</div>
 
 						<div class="description-box">
