@@ -2,11 +2,9 @@
 include "process.php";
 ?>
 <!DOCTYPE html>
-<!--[if IE 8 ]><html class="no-js oldie ie8" lang="en"> <![endif]-->
-<!--[if IE 9 ]><html class="no-js oldie ie9" lang="en"> <![endif]-->
-<!--[if (gte IE 9)|!(IE)]><!-->
+
 <html class="no-js" lang="en">
-<!--<![endif]-->
+
 
 <head>
 
@@ -405,7 +403,7 @@ include "process.php";
 
 					<div class="bgrid folio-item">
 						<div class="item-wrap">
-							<img src="images/portfolio/project2.jpg" alt="">
+							<img src="images/portfolio/portfolio2.PNG" alt="">
 							<a href="#modal-02" class="overlay">
 								<div class="folio-item-table">
 									<div class="folio-item-cell">
