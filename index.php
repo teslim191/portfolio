@@ -421,7 +421,7 @@ include "process.php";
 
 					<div class="bgrid folio-item">
 						<div class="item-wrap">
-							<img src="images/portfolio/project3.jpg" alt="">
+							<img src="images/portfolio/portfolio3.PNG" alt="">
 							<a href="#modal-03" class="overlay">
 								<div class="folio-item-table">
 									<div class="folio-item-cell">
@@ -519,7 +519,7 @@ include "process.php";
 						</div>
 
 						<div class="link-box">
-							<a href="https://tech-business.herokuapp.com/" target="_blank" rel="noopener">Details</a>
+							<a href="#" target="_blank" rel="noopener">Details</a>
 							<a href="#" class="popup-modal-dismiss">Close</a>
 						</div>
 
@@ -528,7 +528,7 @@ include "process.php";
 					<div id="modal-03" class="popup-modal slider mfp-hide">
 
 						<div class="media">
-							<img src="images/portfolio/modals/m-project3.jpg" alt="" />
+							<img src="images/portfolio/modals/portfolio3.PNG" alt="" />
 						</div>
 
 						<div class="description-box">
@@ -539,7 +539,7 @@ include "process.php";
 						</div>
 
 						<div class="link-box">
-							<a href="http://gtechnologyit.com/" target="_blank" rel="noopener">Details</a>
+							<a href="https://tech-business.herokuapp.com/" target="_blank" rel="noopener">Details</a>
 							<a href="#" class="popup-modal-dismiss">Close</a>
 						</div>
 
